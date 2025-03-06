@@ -1,0 +1,2 @@
+Mean absolute difference: 0.0142
+Variance of differences: 0.0001
